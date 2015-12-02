@@ -15,3 +15,5 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + 2:50 - 3:00 Daily wrap up
 
 [Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1NvScUBoZvNxEIVM44kBW4dqZn4eXvKFQzRqhlJpa4j4/edit)
+
+<a href='https://learn.co/lessons/hs-intro-web-day6-schedule' data-visibility='hidden'>View this lesson on Learn.co</a>
